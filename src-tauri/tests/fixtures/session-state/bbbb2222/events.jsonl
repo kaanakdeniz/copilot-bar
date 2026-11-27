@@ -1,0 +1,2 @@
+{"type":"session.start","data":{"sessionId":"bbbb2222","startTime":"2026-11-21T09:00:00.000Z"},"id":"b1","timestamp":"2026-11-21T09:00:00.000Z"}
+{"type":"session.usage_record","data":{"usage":{"model":"claude-sonnet-4.6","inputTokens":300,"outputTokens":30,"accounting":{"usageId":"ub1"},"copilotUsage":{"totalNanoAiu":500000000}}},"id":"b2","timestamp":"2026-11-21T09:00:05.000Z"}

@@ -1,0 +1,5 @@
+{"type":"session.start","data":{"sessionId":"mixed","context":{"cwd":"/Users/me/Projects/demo"}},"id":"m1","timestamp":"2026-09-20T10:00:00.000Z"}
+{"type":"session.model_change","data":{"newModel":"claude-opus-4.5"},"id":"m2","timestamp":"2026-09-20T10:00:01.000Z"}
+{"type":"session.shutdown","data":{"totalNanoAiu":5000000000,"modelMetrics":{"claude-opus-4.5":{"requests":{"count":4},"usage":{"inputTokens":900,"outputTokens":40,"cacheReadTokens":0,"cacheWriteTokens":0,"reasoningTokens":0},"totalNanoAiu":5000000000}}},"id":"m3","timestamp":"2026-09-20T10:05:00.000Z"}
+{"type":"session.resume","data":{},"id":"m4","timestamp":"2026-11-20T09:00:00.000Z"}
+{"type":"session.usage_record","data":{"usage":{"model":"gpt-5.6-luna","inputTokens":100,"outputTokens":5,"initiator":"user","accounting":{"usageId":"u9"},"copilotUsage":{"totalNanoAiu":150000000}}},"id":"m5","timestamp":"2026-11-20T09:00:05.000Z"}

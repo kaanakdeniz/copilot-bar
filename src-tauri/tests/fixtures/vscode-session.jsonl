@@ -1,0 +1,8 @@
+{"kind":0,"v":{"version":3,"sessionId":"vs1","requests":[],"customTitle":null}}
+{"kind":1,"k":["customTitle"],"v":"Fix tests"}
+{"kind":2,"k":["requests"],"v":[{"requestId":"r1","timestamp":1795000000000,"modelId":"copilot/claude-sonnet-4.6"}]}
+{"kind":1,"k":["requests",0,"result"],"v":{"metadata":{"promptTokens":1200,"outputTokens":80}}}
+{"kind":2,"k":["requests"],"v":[{"requestId":"r2","timestamp":1795000600000,"modelId":"copilot/auto"}]}
+{"kind":1,"k":["requests",1,"result"],"v":{"metadata":{"promptTokens":300,"outputTokens":20,"resolvedModel":"claude-haiku-4-5-20251001"}}}
+{"kind":2,"k":["requests"],"i":1,"v":[{"requestId":"r3","timestamp":1795001200000,"modelId":"copilot/gpt-5.4"}]}
+{"kind":1,"k":["requests",1,"result"],"v":{"metadata":{"promptTokens":500,"outputTokens":40}}}

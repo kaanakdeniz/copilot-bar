@@ -1,0 +1,3 @@
+# Cycles follow GitHub in UTC; days follow the user's clock
+
+A Cycle starts and ends at GitHub's reset time, midnight UTC, because that is when GitHub resets the Allowance. "Today", daily charts, active days and the calendar use the user's local midnight instead, because people think of their day in their own time zone. For example, at 01:00 on 22 November in Istanbul it is still 21 November in UTC, but CopilotBar counts the usage as 22 November. As a result, the first and last local day of a Cycle can be partial days. A local day belongs to the Cycle whose UTC span contains that day's midday, so each Cycle shows a whole number of local days in every time zone. Don't "fix" this by moving everything to UTC, or everything to local time.

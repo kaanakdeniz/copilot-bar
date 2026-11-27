@@ -1,0 +1,11 @@
+{"type":"session.start","data":{"sessionId":"legacy","context":{"cwd":"/tmp/x"}},"id":"a1","timestamp":"2026-09-20T10:00:00.000Z"}
+{"type":"session.model_change","data":{"newModel":"claude-opus-4.5"},"id":"a2","timestamp":"2026-09-20T10:00:01.000Z"}
+{"type":"session.usage_checkpoint","data":{"totalNanoAiu":100000000},"id":"a3","timestamp":"2026-09-20T10:01:00.000Z"}
+{"type":"session.shutdown","data":{"totalNanoAiu":100000000,"modelMetrics":{"claude-opus-4.5":{"requests":{"count":2},"usage":{"inputTokens":500,"outputTokens":20,"cacheReadTokens":0,"cacheWriteTokens":0,"reasoningTokens":0},"totalNanoAiu":100000000}}},"id":"a4","timestamp":"2026-09-20T10:02:00.000Z"}
+{"type":"session.resume","data":{},"id":"a5","timestamp":"2026-09-21T09:00:00.000Z"}
+{"type":"session.usage_checkpoint","data":{"totalNanoAiu":160000000},"id":"a6","timestamp":"2026-09-21T09:01:00.000Z"}
+{"type":"session.shutdown","data":{"totalNanoAiu":160000000,"modelMetrics":{"claude-opus-4.5":{"requests":{"count":3},"usage":{"inputTokens":800,"outputTokens":30,"cacheReadTokens":0,"cacheWriteTokens":0,"reasoningTokens":0},"totalNanoAiu":160000000}}},"id":"a7","timestamp":"2026-09-21T09:02:00.000Z"}
+{"type":"session.resume","data":{},"id":"a8","timestamp":"2026-09-22T09:00:00.000Z"}
+{"type":"session.auto_mode_resolved","data":{"chosenModel":"gpt-5.6-luna"},"id":"a9","timestamp":"2026-09-22T09:00:01.000Z"}
+{"type":"session.usage_checkpoint","data":{"totalNanoAiu":30000000},"id":"a10","timestamp":"2026-09-22T09:01:00.000Z"}
+{"type":"session.usage_checkpoint","data":{"totalNanoAiu":50000000},"id":"a11","timestamp":"2026-09-22T09:02:00.000Z"}

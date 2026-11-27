@@ -1,0 +1,2 @@
+{"type":"session.start","data":{"sessionId":"dddd4444","context":{"cwd":"/Users/me/Projects/atlas"}},"id":"x1","timestamp":"2026-11-20T10:00:00.000Z"}
+{"type":"session.usage_record","data":{"usage":{"model":"gpt-5.6-luna","inputTokens":100,"outputTokens":10,"accounting":{"usageId":"u-dddd4444"},"copilotUsage":{"totalNanoAiu":100000000}}},"id":"x2","timestamp":"2026-11-20T10:00:05.000Z"}

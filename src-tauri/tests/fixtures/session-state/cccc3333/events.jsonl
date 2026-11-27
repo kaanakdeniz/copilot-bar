@@ -1,0 +1,2 @@
+{"type":"session.start","data":{"sessionId":"cccc3333","startTime":"2026-11-22T16:53:42.546Z","context":{"cwd":"/Users/me/.copilot/chats/2026-11-22/ubiquitous-barnacle-cccc3333"}},"id":"c1","timestamp":"2026-11-22T16:53:42.569Z"}
+{"type":"session.usage_record","data":{"usage":{"model":"gpt-5.6-luna","inputTokens":50,"outputTokens":5,"accounting":{"usageId":"uc1"},"copilotUsage":{"totalNanoAiu":50000000}}},"id":"c2","timestamp":"2026-11-22T16:53:45.000Z"}

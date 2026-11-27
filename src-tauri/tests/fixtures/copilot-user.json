@@ -1,0 +1,3 @@
+{"login":"octo","copilot_plan":"individual","access_type_sku":"pro","quota_reset_date":"2026-12-01","quota_reset_date_utc":"2026-12-01T00:00:00.000Z","token_based_billing":true,
+ "quota_snapshots":{"chat":{"unlimited":true,"entitlement":0,"credits_used":0},
+ "premium_interactions":{"unlimited":false,"entitlement":1000,"credits_used":412.5,"remaining":587.5,"percent_remaining":58.75,"overage_permitted":true}}}

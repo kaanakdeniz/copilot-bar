@@ -1,0 +1,15 @@
+build/
+.DS_Store
+node_modules/
+dist/
+src-tauri/target/
+src-tauri/gen/
+*.snapshot.json
+snapshots/
+
+.env*
+*.log
+.vscode/
+.idea/
+.claude/
+.t3/

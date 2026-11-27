@@ -1,0 +1,5 @@
+{"login":"example-free","copilot_plan":"individual","access_type_sku":"free_limited_copilot","quota_reset_date":"2026-12-01","quota_reset_date_utc":"2026-12-01T00:00:00.000Z","token_based_billing":true,
+ "quota_snapshots":{
+  "premium_interactions":{"entitlement":0,"remaining":0,"quota_remaining":0.0,"credits_used":0,"has_quota":false,"unlimited":false,"overage_permitted":false,"token_based_billing":true,"percent_remaining":0.0},
+  "chat":{"entitlement":200,"remaining":197,"quota_remaining":197.3,"credits_used":2,"has_quota":true,"unlimited":false,"overage_permitted":false,"token_based_billing":true,"percent_remaining":98.6},
+  "completions":{"entitlement":2000,"remaining":1983,"quota_remaining":1983.0,"credits_used":17,"has_quota":true,"unlimited":false,"overage_permitted":false,"token_based_billing":true,"percent_remaining":99.2}}}
